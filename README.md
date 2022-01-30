@@ -82,7 +82,7 @@ Yêu cầu: Bài này chỉ khác bài trên đầu vào là một mảng. Đừ
 
 [solvePro.py](https://github.com/northern-cyber/WriteupBCM2022/blob/main/solvePro.py)
 
-Mình mới chỉ giải được 2 bài này thôi. Cảm ơn các bạn đã đọc tận đây.
+Mình mới chỉ giải được 2 bài này thôi. Các bài sau mình tham khảo và đọc hint của các admin.
 
 # 4.Permutation
 
