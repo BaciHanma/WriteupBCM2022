@@ -1,6 +1,7 @@
 # WriteupBCM2022
 Writeup của gà mờ
 # 1.FIBONACCI
+![alt text](https://github.com/northern-cyber/WriteupBCM2022/blob/main/Fibonacci.png)
 Đầu tiên, nếu bạn chưa biết thì để thực hiện các thử thách mảng programming đầu tiên chúng ta cần biết về socket. 
 
 Mình cũng mới đọc về nó chút thôi.
