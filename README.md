@@ -70,7 +70,7 @@ Sau đó chạy file py và nhận kết quả thôi:
 
 ![alt text](https://github.com/northern-cyber/WriteupBCM2022/blob/main/fiboResult.png)
 
-#2.Product
+# 2.Product
 
 ![alt text](https://github.com/northern-cyber/WriteupBCM2022/blob/main/Product.png)
 
