@@ -77,3 +77,7 @@ Sau đó chạy file py và nhận kết quả thôi:
 Yêu cầu:
 
 ![alt text](https://github.com/northern-cyber/WriteupBCM2022/blob/main/productTer.png)
+
+Đây là file solve nhé:
+
+[a link](https://github.com/northern-cyber/WriteupBCM2022/blob/main/solvePro.py)
