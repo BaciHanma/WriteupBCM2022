@@ -2,6 +2,7 @@
 Writeup của gà mờ
 # 1.FIBONACCI
 ![alt text](https://github.com/northern-cyber/WriteupBCM2022/blob/main/Fibonacci.png)
+
 Đầu tiên, nếu bạn chưa biết thì để thực hiện các thử thách mảng programming đầu tiên chúng ta cần biết về socket. 
 
 Mình cũng mới đọc về nó chút thôi.
@@ -25,4 +26,6 @@ Ok giờ vừa làm chall này rồi mình vừa giải thích nhé.
 
 Đầu tiên khi ta kết nối tới với máy chủ với lênh:
 >nc -v 45.77.39.59 9001
+
+![alt text](https://github.com/northern-cyber/WriteupBCM2022/blob/main/terminal.png)
 
