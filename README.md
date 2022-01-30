@@ -80,4 +80,4 @@ Yêu cầu:
 
 Đây là file solve nhé:
 
-[a link](https://github.com/northern-cyber/WriteupBCM2022/blob/main/solvePro.py)
+[solvePro.py](https://github.com/northern-cyber/WriteupBCM2022/blob/main/solvePro.py)
