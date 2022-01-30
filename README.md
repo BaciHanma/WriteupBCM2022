@@ -68,3 +68,4 @@ io.interactive()
 Sau đó chạy file py và nhận kết quả thôi:
 >python3 solveFibo.py DEBUG
 
+![alt text](https://github.com/northern-cyber/WriteupBCM2022/blob/main/fiboResult.png)
