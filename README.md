@@ -95,6 +95,7 @@ Yêu cầu: Tìm số chuỗi có thể tạo ra từ chuỗi đã cho.
 Để giải được bài này bạn có thể tham khảo hai nguồn sau:
 
 https://vnhoctap.com/hoan-vi-lap/ (của admin __Lil Thawg__)
+
 https://math.stackexchange.com/questions/2211509/how-many-different-strings-can-i-create-with-the-characters-of-the-string-speis (còn đây là nguồn mình đọc lúc giải bài)
 
 Còn đây là code:
