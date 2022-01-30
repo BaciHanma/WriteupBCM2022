@@ -103,5 +103,22 @@ Còn đây là code:
 [solveLetter.py](https://github.com/northern-cyber/WriteupBCM2022/blob/main/SolveLetter.py)
 
 
+# 5.SUM
 
+![alt text](https://github.com/northern-cyber/WriteupBCM2022/blob/main/Sum.png)
+
+Yêu cầu: Tìm số cặp có tổng bằng một giá trị cho trước.
+
+![alt text](https://github.com/northern-cyber/WriteupBCM2022/blob/main/SumTer.png)
+
+Để giải bài này bạn có thể đọc qua hai nguồn sau:
+https://vnoi.info/wiki/algo/basic/two-pointers.md
+
+https://www.geeksforgeeks.org/two-pointers-technique/
+
+Còn đây là file solve:
+
+[solveSum.py](https://github.com/northern-cyber/WriteupBCM2022/blob/main/SolveSum.py)
+
+Cảm ơn các bạn đã đọc đến tận đây. Đây là lần đầu mình viết writeup nên chắc hơi dài dòng và giải thích có thể hơi mơ hồ.
 
