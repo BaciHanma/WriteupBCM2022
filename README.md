@@ -11,6 +11,7 @@ Hoặc với có kiến thức nông cạn của mình hiện tại chắc mình
 trả ra các vấn đề, ta giải quyết vấn đề rồi gửi kết quả lại cho máy chủ kiểm tra. Hiểu đơn giản vậy :D.
 
 Vậy để kết nối đến các máy chủ phải làm sao?
+
 __1. Khi sử dụng terminal__
 Ta có thể sử dụng lệnh:
 >nc {địa chỉ của máy chủ} {cổng mạng} 
