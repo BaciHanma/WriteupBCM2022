@@ -1,7 +1,9 @@
 # WriteupBCM2022
 Writeup của gà mờ
 # 1.FIBONACCI
-Đầu tiên, nếu bạn chưa biết thì để thực hiện các thử thách mảng programming đầu tiên chúng ta cần biết về socket. Mình cũng mới đọc về nó chút thôi.
+Đầu tiên, nếu bạn chưa biết thì để thực hiện các thử thách mảng programming đầu tiên chúng ta cần biết về socket. 
+
+Mình cũng mới đọc về nó chút thôi.
 Bạn có thể tham khảo ở link này:https://topdev.vn/blog/socket-la-gi-websocket-la-gi/ 
 
 
