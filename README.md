@@ -83,3 +83,24 @@ Yêu cầu: Bài này chỉ khác bài trên đầu vào là một mảng. Đừ
 [solvePro.py](https://github.com/northern-cyber/WriteupBCM2022/blob/main/solvePro.py)
 
 Mình mới chỉ giải được 2 bài này thôi. Cảm ơn các bạn đã đọc tận đây.
+
+# 4.Permutation
+
+![alt text](https://github.com/northern-cyber/WriteupBCM2022/blob/main/Permutation.png)
+
+Yêu cầu: Tìm số chuỗi có thể tạo ra từ chuỗi đã cho.
+
+![alt text](https://github.com/northern-cyber/WriteupBCM2022/blob/main/PermutationTer.png)
+
+Để giải được bài này bạn có thể tham khảo hai nguồn sau:
+
+https://vnhoctap.com/hoan-vi-lap/ (của admin __Lil Thawg__)
+https://math.stackexchange.com/questions/2211509/how-many-different-strings-can-i-create-with-the-characters-of-the-string-speis (còn đây là nguồn mình đọc lúc giải bài)
+
+Còn đây là code:
+
+[solveLetter.py](https://github.com/northern-cyber/WriteupBCM2022/blob/main/SolveLetter.py)
+
+
+
+
