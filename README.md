@@ -112,6 +112,7 @@ Yêu cầu: Tìm số cặp có tổng bằng một giá trị cho trước.
 ![alt text](https://github.com/northern-cyber/WriteupBCM2022/blob/main/SumTer.png)
 
 Để giải bài này bạn có thể đọc qua hai nguồn sau:
+
 https://vnoi.info/wiki/algo/basic/two-pointers.md
 
 https://www.geeksforgeeks.org/two-pointers-technique/
