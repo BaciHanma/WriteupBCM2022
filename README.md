@@ -72,7 +72,7 @@ Sau đó chạy file py và nhận kết quả thôi:
 
 #2.Product
 
-![alt text](https://github.com/northern-cyber/WriteupBCM2022/blob/main/productTer.png)
+![alt text](https://github.com/northern-cyber/WriteupBCM2022/blob/main/Product.png)
 
 Yêu cầu:
 
