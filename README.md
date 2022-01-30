@@ -8,4 +8,8 @@ Bạn có thể tham khảo ở link này:https://topdev.vn/blog/socket-la-gi-we
 
 
 Hoặc với có kiến thức nông cạn của mình hiện tại chắc mình sẽ giải thích nó như này: để thực hiện các thử thách chúng ta kết nối đến các máy chủ, rồi các máy chủ
-trả ra các vấn đề, ta giải quyết vấn đề rồi gửi kết quả lại cho máy chủ kiểm tra.
+trả ra các vấn đề, ta giải quyết vấn đề rồi gửi kết quả lại cho máy chủ kiểm tra. Hiểu đơn giản vậy :D.
+
+Vậy để kết nối đến các máy chủ phải làm sao?
+
+
