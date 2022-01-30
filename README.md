@@ -122,4 +122,7 @@ Còn đây là file solve:
 [solveSum.py](https://github.com/northern-cyber/WriteupBCM2022/blob/main/SolveSum.py)
 
 Cảm ơn các bạn đã đọc đến tận đây. Đây là lần đầu mình viết writeup nên chắc hơi dài dòng và giải thích có thể hơi mơ hồ.
+Còn bài 3 nữa.Bạn có thể tham khảo ở writeup của anh __devme4f__ nhé:
+https://github.com/devme4f/ctf-writeup/blob/main/kcsc-recruit/programming/split-number.md
+
 
