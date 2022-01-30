@@ -17,5 +17,11 @@ Ta có thể sử dụng lệnh:
 >nc {địa chỉ của máy chủ} {cổng mạng} 
 
 __2. Hoặc ta có thể sử dụng các thư viện hỗ trợ của các ngôn ngữ lập trình__
-Trong bài này và các bài sau, mình sẽ sử dụng python và cụ thể là thư viện pwn
+
+Trong bài này và các bài sau, mình sẽ sử dụng python và cụ thể là thư viện pwn, hay còn biết đến với tên pwntool
+
+Ok giờ vừa làm chall này rồi mình vừa giải thích nhé.
+
+Đầu tiên khi ta kết nối tới với máy chủ với lênh:
+>nc -v 45.77.39.59 9001
 
