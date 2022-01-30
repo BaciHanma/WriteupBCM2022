@@ -74,10 +74,12 @@ Sau đó chạy file py và nhận kết quả thôi:
 
 ![alt text](https://github.com/northern-cyber/WriteupBCM2022/blob/main/Product.png)
 
-Yêu cầu:
+Yêu cầu: Bài này chỉ khác bài trên đầu vào là một mảng. Đừng suy nghĩ thuật toán phức tạp. Chỉ đơn giản là lấy tích cả mảng thôi. Đọc file solve ở dưới nhé.
 
 ![alt text](https://github.com/northern-cyber/WriteupBCM2022/blob/main/productTer.png)
 
 Đây là file solve nhé:
 
 [solvePro.py](https://github.com/northern-cyber/WriteupBCM2022/blob/main/solvePro.py)
+
+Mình mới chỉ giải được 2 bài này thôi. Cảm ơn các bạn đã đọc tận đây.
