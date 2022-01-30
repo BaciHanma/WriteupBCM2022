@@ -65,4 +65,6 @@ while True:
     #và nhớ là cũng phải encode(nghĩa là chuyển chuỗi thường về chuỗi byte )rồi gửi lại cho máy chủ
 io.interactive()
 ```
+Sau đó chạy file py và nhận kết quả thôi:
+>python3 solveFibo.py DEBUG
 
