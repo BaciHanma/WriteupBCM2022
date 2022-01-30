@@ -29,3 +29,7 @@ Ok giờ vừa làm chall này rồi mình vừa giải thích nhé.
 
 ![alt text](https://github.com/northern-cyber/WriteupBCM2022/blob/main/terminal.png)
 
+Có thể thấy chúng ta cần lấy được giá trị của N và gửi kết quả fibonacci(n) về cho máy chủ.
+
+
+
