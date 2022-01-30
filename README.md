@@ -16,3 +16,6 @@ __1. Khi sử dụng terminal__
 Ta có thể sử dụng lệnh:
 >nc {địa chỉ của máy chủ} {cổng mạng} 
 
+__2. Hoặc ta có thể sử dụng các thư viện hỗ trợ của các ngôn ngữ lập trình__
+Trong bài này và các bài sau, mình sẽ sử dụng python và cụ thể là thư viện pwn
+
